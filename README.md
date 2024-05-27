@@ -8,9 +8,10 @@
   - Tự động hóa: Postman cung cấp các tính năng tự động hóa giúp bạn tự động hóa các tác vụ kiểm thử API.expand_more 
   - Bảo mật: Postman hỗ trợ các tính năng bảo mật như xác thực và ủy quyền. Giao diện overview
 ![333564518-b704f223-6633-468c-8e2e-caeb8f98d7fe](https://github.com/HuyPhong-21012889-PKA/postman/assets/131637318/494a9bea-8ed2-41cd-b9e5-234452516c1c)
-#2. Kiểm thử API cơ bản
 
-- Các yêu cầu HTTP cơ bản với API khóa học Yêu cầu GET
+#2. Kiểm thử API cơ bản
+Các yêu cầu HTTP cơ bản với API
+- Yêu cầu GET
 ![333564547-e33ee91c-8701-4788-9afc-efbb357919f2](https://github.com/HuyPhong-21012889-PKA/postman/assets/131637318/7a604bef-1756-4060-9473-88d0d972e6b1)
 - Yêu cầu POST
 ![333564583-c442dd71-d202-43bf-b3ce-1511dfe61464](https://github.com/HuyPhong-21012889-PKA/postman/assets/131637318/40e6d0da-6beb-4464-a2e8-73d1e084da47)
