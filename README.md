@@ -7,7 +7,8 @@ Postman là một nền tảng toàn diện cho việc phát triển, sử dụn
   - Chia sẻ API: Postman cho phép bạn chia sẻ các yêu cầu, bộ sưu tập và môi trường với những người khác. Điều này giúp bạn dễ dàng cộng tác với các nhà phát triển và tester khác. 
   - Quản lý môi trường: Postman cho phép bạn quản lý nhiều môi trường API khác nhau.expand_more Điều này giúp bạn dễ dàng kiểm thử API trong các môi trường khác nhau (ví dụ: phát triển, thử nghiệm, sản xuất).expand_more 
   - Tự động hóa: Postman cung cấp các tính năng tự động hóa giúp bạn tự động hóa các tác vụ kiểm thử API.expand_more 
-  - Bảo mật: Postman hỗ trợ các tính năng bảo mật như xác thực và ủy quyền. Giao diện overview
+  - Bảo mật: Postman hỗ trợ các tính năng bảo mật như xác thực và ủy quyền.
+  -  Giao diện overview
 ![333564518-b704f223-6633-468c-8e2e-caeb8f98d7fe](https://github.com/HuyPhong-21012889-PKA/postman/assets/131637318/494a9bea-8ed2-41cd-b9e5-234452516c1c)
 
 # 2. Kiểm thử API cơ bản
@@ -35,4 +36,5 @@ Các yêu cầu HTTP cơ bản với API
 ![333564759-0501cd37-c387-4774-b791-03247c892390](https://github.com/HuyPhong-21012889-PKA/postman/assets/131637318/cb10125a-8fac-4cd4-acc4-99fb432fed1a)
 ![333564894-e56bffc9-64c6-4964-a7da-157c867db090](https://github.com/HuyPhong-21012889-PKA/postman/assets/131637318/60cdf852-2653-4c83-b1f3-eaeca0362490)
 # 3. THỰC HÀNH GET của 1 API thời tiết
-![Uploading 333564921-1cdbd970-56f9-471f-9fd8-b0a2e29af0cc.png…]()
+![333564921-1cdbd970-56f9-471f-9fd8-b0a2e29af0cc](https://github.com/HuyPhong-21012889-PKA/postman/assets/131637318/d0079482-2ca8-4579-b5d8-d01b6d9357f2)
+
