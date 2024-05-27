@@ -1,5 +1,6 @@
 # postman
-#CallPostMan #1. Giới thiệu về Postman Postman là một nền tảng toàn diện cho việc phát triển, sử dụng và quản lý API. Nó cung cấp nhiều tính năng giúp các nhà phát triển và tester dễ dàng tạo, gửi, kiểm tra và chia sẻ các yêu cầu API. Postman hiện là một trong những công cụ phổ biến nhất được sử dụng trong lĩnh vực kiểm thử API. Dưới đây là một số tính năng chính của Postman: 
+# 1. Giới thiệu về Postman
+Postman là một nền tảng toàn diện cho việc phát triển, sử dụng và quản lý API. Nó cung cấp nhiều tính năng giúp các nhà phát triển và tester dễ dàng tạo, gửi, kiểm tra và chia sẻ các yêu cầu API. Postman hiện là một trong những công cụ phổ biến nhất được sử dụng trong lĩnh vực kiểm thử API. Dưới đây là một số tính năng chính của Postman: 
   - Tạo yêu cầu HTTP: Postman cho phép bạn tạo các yêu cầu HTTP với nhiều phương thức khác nhau (GET, POST, PUT, DELETE, v.v.). Bạn có thể nhập URL API, thêm header, body và các tham số yêu cầu.expand_more 
   - Gửi yêu cầu và xem phản hồi: Postman cho phép bạn gửi các yêu cầu HTTP đến API và xem phản hồi.expand_more Bạn có thể xem mã trạng thái HTTP, header, body và nội dung phản hồi.expand_more 
   - Kiểm tra API: Postman cung cấp nhiều công cụ để giúp bạn kiểm tra API, bao gồm trình soạn thảo JSON, trình xác minh JSON, trình gỡ lỗi và bộ sưu tập. 
@@ -9,7 +10,7 @@
   - Bảo mật: Postman hỗ trợ các tính năng bảo mật như xác thực và ủy quyền. Giao diện overview
 ![333564518-b704f223-6633-468c-8e2e-caeb8f98d7fe](https://github.com/HuyPhong-21012889-PKA/postman/assets/131637318/494a9bea-8ed2-41cd-b9e5-234452516c1c)
 
-#2. Kiểm thử API cơ bản
+# 2. Kiểm thử API cơ bản
 Các yêu cầu HTTP cơ bản với API
 - Yêu cầu GET
 ![333564547-e33ee91c-8701-4788-9afc-efbb357919f2](https://github.com/HuyPhong-21012889-PKA/postman/assets/131637318/7a604bef-1756-4060-9473-88d0d972e6b1)
@@ -27,5 +28,5 @@ Các yêu cầu HTTP cơ bản với API
 - Sử dụng biến để lưu 1 URL
 ![333564759-0501cd37-c387-4774-b791-03247c892390](https://github.com/HuyPhong-21012889-PKA/postman/assets/131637318/cb10125a-8fac-4cd4-acc4-99fb432fed1a)
 ![333564894-e56bffc9-64c6-4964-a7da-157c867db090](https://github.com/HuyPhong-21012889-PKA/postman/assets/131637318/60cdf852-2653-4c83-b1f3-eaeca0362490)
-#3. THỰC HÀNH GET của 1 API thời tiết
+# 3. THỰC HÀNH GET của 1 API thời tiết
 ![Uploading 333564921-1cdbd970-56f9-471f-9fd8-b0a2e29af0cc.png…]()
